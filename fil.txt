@@ -1,4 +1,3 @@
-HEAD
 Dette er altså innhold. #jolo.
 
 while(joloing){
