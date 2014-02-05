@@ -1,5 +1,8 @@
+HEAD
 Dette er altså innhold. #jolo.
 
 while(joloing){
     numberOfFucksGiven = 0;
 }
+
+NOT-SO-MUCH-LULZ
